@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinearLayoutNhietdo</string>
+    android:text="@string/your_string_name"
+
+</resources>
